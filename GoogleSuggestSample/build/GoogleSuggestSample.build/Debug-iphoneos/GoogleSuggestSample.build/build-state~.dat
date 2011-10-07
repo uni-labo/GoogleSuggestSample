@@ -1,0 +1,767 @@
+TGoogleSuggestSample
+v7
+r0
+t335877822.570775
+cCheck dependencies
+cCpResource build/Debug-iphoneos/GoogleSuggestSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/Info.plist GoogleSuggestSample-Info.plist
+cCompileXIB /Users/takeuchi/Desktop/GoogleSuggestSample/MainWindow.xib
+cCompileXIB /Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSampleViewController.xib
+cProcessPCH /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch.gch GoogleSuggestSample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch.gch GoogleSuggestSample_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/main.o /Users/takeuchi/Desktop/GoogleSuggestSample/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleAppDelegate.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleViewController.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/NSStringAdditions.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLDocument.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElement.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLNode.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElementAdditions.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/SuggestTableView.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/main.o /Users/takeuchi/Desktop/GoogleSuggestSample/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleAppDelegate.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleViewController.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/NSStringAdditions.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLDocument.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElement.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLNode.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElementAdditions.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample normal armv6
+cCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/SuggestTableView.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample normal armv7
+cCreateUniversalBinary /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample normal "armv6 armv7"
+cGenerateDSYMFile /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app.dSYM /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample
+cProcessProductPackaging "/Users/takeuchi/Library/MobileDevice/Provisioning Profiles/AEB58A09-60F6-457F-9633-36F7585AFC2D.mobileprovision" /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/embedded.mobileprovision
+cTouch /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample.xcent
+cCodeSign /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2/libxml/tree.h
+c000000004D54D0BA0000000000008F14
+t1297404090
+s36628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004D54D0BA0000000000003F47
+t1297404090
+s16199
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004D54D0BA0000000000004BF8
+t1297404090
+s19448
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXML.h
+c000000004AE60C670000000000000049
+t1256590439
+s73
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.h
+c000000004AE60C670000000000000807
+t1256590439
+s2055
+i<Foundation/Foundation.h>
+i"DDXMLElement.h"
+i"DDXMLNode.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m
+c000000004AE60C670000000000000BC3
+t1256590439
+s3011
+i"DDXMLDocument.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.h
+c000000004AE60C6700000000000006B0
+t1256590439
+s1712
+i<Foundation/Foundation.h>
+i"DDXMLNode.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m
+c000000004AE60C670000000000004042
+t1256590439
+s16450
+i"DDXMLElement.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.h
+c000000004AE60C670000000000000264
+t1256590439
+s612
+i<Foundation/Foundation.h>
+i"DDXML.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m
+c000000004AE60C670000000000000C1D
+t1256590439
+s3101
+i"DDXMLElementAdditions.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.h
+c000000004AE60C670000000000001392
+t1256590439
+s5010
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m
+c000000004AE60C67000000000000B90F
+t1256590439
+s47375
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLPrivate.h
+c000000004AE60C670000000000000A61
+t1256590439
+s2657
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.h
+c000000004E53448D0000000000000224
+t1314079885
+s548
+i<UIKit/UIKit.h>
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m
+c000000004E54CCD30000000000000A52
+t1314180307
+s2642
+i"GoogleSuggestSampleAppDelegate.h"
+i"GoogleSuggestSampleViewController.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.h
+c000000004E54D1C40000000000000242
+t1314181572
+s578
+i<UIKit/UIKit.h>
+i"SuggestTableView.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m
+c000000004E54DED700000000000018B9
+t1314184919
+s6329
+i"GoogleSuggestSampleViewController.h"
+i"DDXMLDocument.h"
+i"DDXMLElement.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.h
+c000000004AE60C6700000000000000FB
+t1256590439
+s251
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m
+c000000004AE60C670000000000000175
+t1256590439
+s373
+i"NSStringAdditions.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.h
+c000000004E54DEE10000000000000137
+t1314184929
+s311
+i<Foundation/Foundation.h>
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m
+c000000004E54DEF20000000000000355
+t1314184946
+s853
+i"SuggestTableView.h"
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSampleViewController.xib
+c000000004E53448D0000000000001A75
+t1314079885
+s6773
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSample_Prefix.pch
+c000000004E53448D00000000000000CF
+t1314079885
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/MainWindow.xib
+c000000004E53448D0000000000004EB9
+t1314079885
+s20153
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app
+t1314185022
+s374
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app.dSYM
+t1314185022
+s102
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample
+t1314185022
+s186072
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSampleViewController.nib
+t1314185020
+s1269
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/Info.plist
+t1314185019
+s874
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/MainWindow.nib
+t1314185020
+s1705
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/PkgInfo
+t1314185019
+s8
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/ResourceRules.plist
+t1314185019
+s485
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/embedded.mobileprovision
+t1314185022
+s7763
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample.xcent
+t1314185022
+s406
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLDocument.o
+t1314185021
+s16592
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElement.o
+t1314185021
+s40264
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElementAdditions.o
+t1314185021
+s14336
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLNode.o
+t1314185021
+s79468
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample
+t1314185022
+s91524
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample.LinkFileList
+c000000004E54DF3B0000000000000590
+t1314185019
+s1424
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleAppDelegate.o
+t1314185021
+s51800
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleViewController.o
+t1314185021
+s74628
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/NSStringAdditions.o
+t1314185021
+s7412
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/SuggestTableView.o
+t1314185021
+s40216
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/main.o
+t1314185021
+s6456
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLDocument.o
+t1314185021
+s16448
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElement.o
+t1314185022
+s38992
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElementAdditions.o
+t1314185022
+s14208
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLNode.o
+t1314185022
+s77104
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample
+t1314185022
+s87768
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample.LinkFileList
+c000000004E54DF3B0000000000000590
+t1314185019
+s1424
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleAppDelegate.o
+t1314185021
+s51688
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleViewController.o
+t1314185021
+s74112
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/NSStringAdditions.o
+t1314185021
+s7384
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/SuggestTableView.o
+t1314185022
+s40116
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/main.o
+t1314185021
+s6440
+
+N/Users/takeuchi/Desktop/GoogleSuggestSample/main.m
+c000000004E53448D0000000000000172
+t1314079885
+s370
+i<UIKit/UIKit.h>
+
+N/Users/takeuchi/Library/MobileDevice/Provisioning Profiles/AEB58A09-60F6-457F-9633-36F7585AFC2D.mobileprovision
+c000000004E30E7EE0000000000001E53
+t1311827950
+s7763
+
+N/var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch.gch
+t1314185021
+s10647452
+
+N/var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch.gch
+t1314185021
+s10184604
+
+NGoogleSuggestSample-Info.plist
+c000000004E536767000000000000036C
+t1314088807
+s876
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335877819#335877819#0(0"0(0#1#0"8632311648#0"0#
+
+CCodeSign /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app
+s335877822.379080
+e335877822.570730
+r1
+xCodeSign
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app
+lSLF07#2@53"CodeSign build/Debug-iphoneos/GoogleSuggestSample.app335877822#335877822#0(0"0(0#0#88"/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app8622017824#730"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: MASATO HACHIYA (3PLYGRFXL5)" --resource-rules=/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/ResourceRules.plist --entitlements /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample.xcent /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLDocument.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.408330
+e335877821.589780
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLDocument.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m335877821#335877821#0(0"0(0#0#67"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m8624424512#2137"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLDocument.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElement.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.464936
+e335877821.737439
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElement.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m335877821#335877821#0(0"0(0#0#66"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m8622938304#2135"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElement.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElementAdditions.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.570983
+e335877821.692465
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElementAdditions.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m335877821#335877821#0(0"0(0#0#75"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m8637160832#2153"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLElementAdditions.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLNode.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.475024
+e335877821.961033
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLNode.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m335877821#335877821#0(0"0(0#0#63"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m8610192352#2129"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/DDXMLNode.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleAppDelegate.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.332575
+e335877821.464782
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleAppDelegate.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m335877821#335877821#0(0"0(0#0#84"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m8629206912#2171"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleAppDelegate.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleViewController.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.336824
+e335877821.570812
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleViewController.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m335877821#335877821#0(0"0(0#0#87"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m8629096064#2177"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSampleViewController.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/NSStringAdditions.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.338425
+e335877821.469656
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/NSStringAdditions.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m335877821#335877821#0(0"0(0#0#71"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m8628633056#2145"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/NSStringAdditions.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/SuggestTableView.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.589912
+e335877821.685376
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/SuggestTableView.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m335877821#335877821#0(0"0(0#0#70"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m8635019712#2143"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/SuggestTableView.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/main.o /Users/takeuchi/Desktop/GoogleSuggestSample/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877821.330485
+e335877821.408158
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/main.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/main.m335877821#335877821#0(0"0(0#0#50"/Users/takeuchi/Desktop/GoogleSuggestSample/main.m8629699296#2111"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/main.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLDocument.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877821.790860
+e335877821.919068
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLDocument.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m335877821#335877821#0(0"0(0#0#67"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m8637084672#2137"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLDocument.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLDocument.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElement.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877821.891202
+e335877822.125112
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElement.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m335877821#335877822#0(0"0(0#0#66"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m8630421152#2135"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElement.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElement.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElementAdditions.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877821.958085
+e335877822.122094
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElementAdditions.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m335877821#335877822#0(0"0(0#0#75"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m8627789312#2153"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLElementAdditions.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLElementAdditions.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLNode.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877821.919246
+e335877822.241965
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLNode.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m335877821#335877822#0(0"0(0#0#63"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m8629105664#2129"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/DDXMLNode.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/DDXMLNode.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleAppDelegate.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877821.692634
+e335877821.790693
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleAppDelegate.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m335877821#335877821#0(0"0(0#0#84"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m8626738400#2171"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleAppDelegate.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleAppDelegate.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleViewController.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877821.737647
+e335877821.957910
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleViewController.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m335877821#335877821#0(0"0(0#0#87"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m8624008480#2177"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/GoogleSuggestSampleViewController.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSampleViewController.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/NSStringAdditions.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877821.772243
+e335877821.891040
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/NSStringAdditions.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m335877821#335877821#0(0"0(0#0#71"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m8623292608#2145"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/NSStringAdditions.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/NSStringAdditions.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/SuggestTableView.o /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877822.122241
+e335877822.194345
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/SuggestTableView.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m335877822#335877822#0(0"0(0#0#70"/Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m8630314784#2143"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/Classes/SuggestTableView.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/SuggestTableView.o0#
+
+CCompileC build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/main.o /Users/takeuchi/Desktop/GoogleSuggestSample/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877821.685547
+e335877821.761445
+r1
+xCompileC
+xbuild/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/main.o
+x/Users/takeuchi/Desktop/GoogleSuggestSample/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/takeuchi/Desktop/GoogleSuggestSample/main.m335877821#335877821#0(0"0(0#0#50"/Users/takeuchi/Desktop/GoogleSuggestSample/main.m8628865504#2111"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -include /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch -c /Users/takeuchi/Desktop/GoogleSuggestSample/main.m -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSampleViewController.xib
+s335877819.808572
+e335877820.174656
+r1
+xCompileXIB
+x/Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSampleViewController.xib
+lSLF07#2@48"CompileXIB GoogleSuggestSampleViewController.xib335877819#335877820#0(0"0(0#0#81"/Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSampleViewController.xib8637560896#615"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSampleViewController.nib /Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSampleViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/takeuchi/Desktop/GoogleSuggestSample/MainWindow.xib
+s335877819.807764
+e335877820.190360
+r1
+xCompileXIB
+x/Users/takeuchi/Desktop/GoogleSuggestSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib335877819#335877820#0(0"0(0#0#58"/Users/takeuchi/Desktop/GoogleSuggestSample/MainWindow.xib8637950304#569"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/MainWindow.nib /Users/takeuchi/Desktop/GoogleSuggestSample/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/GoogleSuggestSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s335877819.777213
+e335877819.807484
+r1
+xCpResource
+xbuild/Debug-iphoneos/GoogleSuggestSample.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist335877819#335877819#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8622996352#516"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app0#
+
+CCreateUniversalBinary /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample normal "armv6 armv7"
+s335877822.280553
+e335877822.283754
+r1
+xCreateUniversalBinary
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample
+xnormal
+xarmv6 armv7
+lSLF07#2@107"CreateUniversalBinary build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample normal "armv6 armv7"335877822#335877822#0(0"0(0#0#55"/Users/takeuchi/Desktop/GoogleSuggestSample/armv6 armv78628217056#634"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample -output /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample0#
+
+CGenerateDSYMFile /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app.dSYM /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample
+s335877822.283878
+e335877822.317767
+r1
+xGenerateDSYMFile
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app.dSYM
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample
+lSLF07#2@131"GenerateDSYMFile build/Debug-iphoneos/GoogleSuggestSample.app.dSYM build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample335877822#335877822#0(0"0(0#0#108"/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample8624528704#413"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/GoogleSuggestSample -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app.dSYM0#
+
+CLd /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample normal armv6
+s335877821.961181
+e335877822.134388
+r1
+xLd
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample
+xnormal
+xarmv6
+lSLF07#2@162"Link /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample335877821#335877822#0(0"0(0#0#0"8623055488#963"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -filelist /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample.LinkFileList -dead_strip -lxml2 -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv6/GoogleSuggestSample0#
+
+CLd /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample normal armv7
+s335877822.242081
+e335877822.280448
+r1
+xLd
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample
+xnormal
+xarmv7
+lSLF07#2@162"Link /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample335877822#335877822#0(0"0(0#0#0"8635081280#963"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -filelist /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample.LinkFileList -dead_strip -lxml2 -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/Objects-normal/armv7/GoogleSuggestSample0#
+
+CProcessInfoPlistFile /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/Info.plist GoogleSuggestSample-Info.plist
+s335877819.778164
+e335877819.807701
+r1
+xProcessInfoPlistFile
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/Info.plist
+xGoogleSuggestSample-Info.plist
+lSLF07#2@38"Process GoogleSuggestSample-Info.plist335877819#335877819#0(0"0(0#0#74"/Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSample-Info.plist8622871328#630"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GoogleSuggestSample-Info.plist -genpkginfo /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/ResourceRules.plist -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/Info.plist0#
+
+CProcessPCH /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch.gch GoogleSuggestSample_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335877820.191540
+e335877821.330297
+r1
+xProcessPCH
+x/var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch.gch
+xGoogleSuggestSample_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile GoogleSuggestSample_Prefix.pch335877820#335877821#0(0"0(0#0#74"/Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSample_Prefix.pch8636653856#1992"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv7 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -c /Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSample_Prefix.pch -o /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-crtkollgndqujwbauyahzzfplezp/GoogleSuggestSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch.gch GoogleSuggestSample_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335877820.190515
+e335877821.329811
+r1
+xProcessPCH
+x/var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch.gch
+xGoogleSuggestSample_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile GoogleSuggestSample_Prefix.pch335877820#335877821#0(0"0(0#0#74"/Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSample_Prefix.pch8637559936#1992"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-generated-files.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-own-target-headers.hmap -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-all-target-headers.hmap -iquote /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample-project-headers.hmap -F/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources/armv6 -I/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/DerivedSources -c /Users/takeuchi/Desktop/GoogleSuggestSample/GoogleSuggestSample_Prefix.pch -o /var/folders/ce/ce2hJlekHImZXEe0+PKazk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GoogleSuggestSample_Prefix-ezkvfvmvyytfaugyhzxawsufwqdq/GoogleSuggestSample_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/takeuchi/Library/MobileDevice/Provisioning Profiles/AEB58A09-60F6-457F-9633-36F7585AFC2D.mobileprovision" /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/embedded.mobileprovision
+s335877822.317875
+e335877822.319217
+r1
+xProcessProductPackaging
+x/Users/takeuchi/Library/MobileDevice/Provisioning Profiles/AEB58A09-60F6-457F-9633-36F7585AFC2D.mobileprovision
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/takeuchi/Library/MobileDevice/Provisioning Profiles/AEB58A09-60F6-457F-9633-36F7585AFC2D.mobileprovision" build/Debug-iphoneos/GoogleSuggestSample.app/embedded.mobileprovision335877822#335877822#0(0"0(0#0#113"/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/embedded.mobileprovision8623833536#448"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/takeuchi/Library/MobileDevice/Provisioning Profiles/AEB58A09-60F6-457F-9633-36F7585AFC2D.mobileprovision" -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample.xcent
+s335877822.322338
+e335877822.378962
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample.xcent
+lSLF07#2@211"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample.xcent335877822#335877822#0(0"0(0#0#142"/Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample.xcent8622834496#478"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/takeuchi/Desktop/GoogleSuggestSample/build/GoogleSuggestSample.build/Debug-iphoneos/GoogleSuggestSample.build/GoogleSuggestSample.xcent0#
+
+CTouch /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app
+s335877822.319274
+e335877822.322239
+r1
+xTouch
+x/Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app
+lSLF07#2@94"Touch /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app335877822#335877822#0(0"0(0#0#0"8623329952#286"    cd /Users/takeuchi/Desktop/GoogleSuggestSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/takeuchi/Desktop/GoogleSuggestSample/build/Debug-iphoneos/GoogleSuggestSample.app0#
+

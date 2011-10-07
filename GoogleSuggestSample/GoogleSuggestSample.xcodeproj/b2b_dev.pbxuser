@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GoogleSuggestSampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 506}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 548}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GoogleSuggestSample */ = {
+		activeExec = 0;
+		executables = (
+			7458ADD0143D8489002142DA /* GoogleSuggestSample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GoogleSuggestSampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1051, 506}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 652}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GoogleSuggestSampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1405, 2850}}";
+			sepNavSelRange = "{3586, 0}";
+			sepNavVisRange = "{1728, 1084}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7458ADD0143D8489002142DA /* GoogleSuggestSample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GoogleSuggestSample */;
+		codeSenseManager = 7458ADE3143D848F002142DA /* Code sense */;
+		executables = (
+			7458ADD0143D8489002142DA /* GoogleSuggestSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					730,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339667290;
+			PBXWorkspaceStateSaveDate = 339667290;
+		};
+		perUserProjectItems = {
+			7436338F143EE97F00F39F3F /* PBXTextBookmark */ = 7436338F143EE97F00F39F3F /* PBXTextBookmark */;
+			7458ADE8143E7A9A002142DA /* PBXTextBookmark */ = 7458ADE8143E7A9A002142DA /* PBXTextBookmark */;
+			7458ADE9143E7A9A002142DA /* PBXTextBookmark */ = 7458ADE9143E7A9A002142DA /* PBXTextBookmark */;
+			7458ADEB143E7A9A002142DA /* PBXTextBookmark */ = 7458ADEB143E7A9A002142DA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7458ADE2143D848F002142DA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7436338F143EE97F00F39F3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GoogleSuggestSampleViewController.m */;
+		name = "GoogleSuggestSampleViewController.m: 128";
+		rLen = 0;
+		rLoc = 3586;
+		rType = 0;
+		vrLen = 1084;
+		vrLoc = 1728;
+	};
+	7458ADD0143D8489002142DA /* GoogleSuggestSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GoogleSuggestSample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7458ADE2143D848F002142DA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7458ADE3143D848F002142DA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7458ADE8143E7A9A002142DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GoogleSuggestSampleAppDelegate.h */;
+		name = "GoogleSuggestSampleAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 548;
+		vrLoc = 0;
+	};
+	7458ADE9143E7A9A002142DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GoogleSuggestSampleViewController.h */;
+		name = "GoogleSuggestSampleViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	7458ADEB143E7A9A002142DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GoogleSuggestSampleViewController.m */;
+		name = "GoogleSuggestSampleViewController.m: 128";
+		rLen = 0;
+		rLoc = 3586;
+		rType = 0;
+		vrLen = 1085;
+		vrLoc = 1727;
+	};
+}
